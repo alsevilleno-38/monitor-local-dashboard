@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Nodemon Attach",
+            "processId": "${command:PickProcess}",
+            "request": "attach",
+            "skipFiles": [
+                "${workspaceFolder}/node_modules/**",
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }
+    ]
+}
