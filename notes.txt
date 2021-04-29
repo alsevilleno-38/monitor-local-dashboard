@@ -1,3 +1,5 @@
 mongo mongodb+srv://angelo:Windows38@cluster0.od27a.mongodb.net/
 
 node --experimental-modules --es-module-specifier-resolution=node index.js
+
+mongodb+srv://angelo:Windows38@cluster0.od27a.mongodb.net/tech?

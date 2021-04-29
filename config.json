@@ -5,7 +5,7 @@
         "clusterName": "cluster0.od27a.mongodb.net",
         "username": "angelo",
         "password": "Windows38",
-        "db": "testing",
+        "db": "tech",
         "protocol": "mongodb+srv"
     }
 ]

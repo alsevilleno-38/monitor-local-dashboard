@@ -1,5 +1,5 @@
 {
     "ignore": [
-        "data", "nodemon.json"
+        "data", "nodemon.json", "notes.txt"
     ]
 }
