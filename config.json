@@ -1,0 +1,11 @@
+[
+    {
+        "_id": 0,
+        "type": 0,
+        "clusterName": "cluster0.od27a.mongodb.net",
+        "username": "angelo",
+        "password": "Windows38",
+        "db": "testing",
+        "protocol": "mongodb+srv"
+    }
+]
